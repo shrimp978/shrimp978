@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @shrimp978
+- 👋 Hi, I’m Shrimp978
 - 🌱 I am learning to make minecraft mods!
+- ⌨️ I mainly know how to code in python and java. I hope to learn some new languages later!
 
 
 <!---
