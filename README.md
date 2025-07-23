@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Shrimp978
-- 🌱 I am learning to make minecraft mods!
-- ⌨️ I mainly know how to code in python and java. I hope to learn some new languages later!
+- 🌱 I am slowly learning how to code!
+  - I code minecraft mods
+  - I also like to make little apps to learn new concepts
+- ⌨️ The language I use the most is java, but I know other languages
 
 
 <!---
